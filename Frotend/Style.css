@@ -1,0 +1,322 @@
+
+
+:root {
+    /* Modo Claro (Default) */
+    --bg-color: #f4f7f6;
+    --card-bg: #ffffff;
+    --text-color: #333333;
+    --text-muted: #666666;
+    --border-color: #eeeeee;
+    --primary-color: #2563eb;
+}
+
+[data-theme="dark"] {
+    /* Modo Oscuro */
+    --bg-color: #121212;
+    --card-bg: #1e1e1e;
+    --text-color: #e0e0e0;
+    --text-muted: #a0a0a0;
+    --border-color: #333333;
+    --primary-color: #3b82f6;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-color);
+    transition: background 0.3s, color 0.3s;
+}
+
+.card {
+    background-color: var(--card-bg);
+    border: 1px solid var(--border-color);
+}
+
+/* Estilo para el botón flotante del modo oscuro */
+.theme-switch {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 50px;
+    cursor: pointer;
+    z-index: 1000;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+}
+
+
+:root {
+    --bg-color: #eff3f8;
+    --card-bg: #ffffff;
+    --text-main: #1a1a1a;
+    --text-muted: #6b7280;
+    --primary-blue: #3b82f6;
+    --accent-orange: #f97316;
+    --accent-green: #10b981;
+    --border-color: #e5e7eb;
+    --dark-btn: #111827;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    padding-bottom: 2rem;
+}
+
+/* --- NAVBAR --- */
+header {
+    background-color: var(--card-bg);
+    padding: 1rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.05);
+}
+
+.logo-area {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+
+.icon-bg {
+    background-color: var(--primary-blue);
+    color: white;
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.2rem;
+}
+
+.nav-actions {
+    display: flex;
+    gap: 10px;
+}
+
+.btn-outline {
+    background: transparent;
+    border: 1px solid var(--border-color);
+    padding: 8px 15px;
+    border-radius: 6px;
+    cursor: pointer;
+    font-weight: 600;
+    color: var(--text-muted);
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    transition: all 0.2s;
+}
+
+.btn-outline:hover {
+    background-color: #f3f4f6;
+    color: var(--text-main);
+}
+
+/* --- MAIN CONTAINER --- */
+main {
+    max-width: 1200px;
+    margin: 2rem auto;
+    padding: 0 20px;
+}
+
+/* --- METRICS CARDS (Puntos 5, 6 y 7) --- */
+.metrics-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    background-color: var(--card-bg);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+    border: 1px solid var(--border-color);
+}
+
+.card-title {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: var(--text-main);
+    margin-bottom: 1.5rem;
+}
+
+.metric-value {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 0.2rem;
+}
+
+.metric-blue { color: var(--primary-blue); }
+.metric-orange { color: var(--accent-orange); }
+.metric-green { color: var(--accent-green); }
+
+.metric-subtitle {
+    font-size: 0.85rem;
+    color: var(--text-muted);
+}
+
+/* Barra de progreso */
+.progress-bar-bg {
+    height: 8px;
+    background-color: #e5e7eb;
+    border-radius: 4px;
+    margin-top: 10px;
+    overflow: hidden;
+}
+
+.progress-bar-fill {
+    height: 100%;
+    background-color: var(--text-muted);
+    width: 2%; /* Representa el 2% */
+    border-radius: 4px;
+}
+
+/* --- BOTTOM SECTION (Punto 4 y Lista) --- */
+.content-grid {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    gap: 1.5rem;
+}
+
+@media (max-width: 768px) {
+    .content-grid { grid-template-columns: 1fr; }
+}
+
+.form-group {
+    margin-bottom: 1.2rem;
+}
+
+.form-group label {
+    display: block;
+    font-size: 0.85rem;
+    font-weight: 600;
+    margin-bottom: 0.5rem;
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background-color: #f9fafb;
+    font-size: 0.9rem;
+    background-color: var(--form-bg);
+ color: var(--text-main) !important;
+}
+
+
+
+.form-control:focus {
+    color: var(--text-main) !important;
+    background-color: var(--form-bg);
+}
+
+.form-actions {
+    display: flex;
+    gap: 10px;
+    margin-top: 1.5rem;
+}
+
+.btn-dark {
+    background-color: var(--dark-btn);
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+    flex: 1;
+}
+
+.btn-light {
+    background-color: var(--card-bg);
+    
+    color: var(--text-main);
+    border: 1px solid var(--border-color);
+    padding: 10px 20px;
+    border-radius: 6px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.btn-light:hover {
+    background-color: var(--form-bg); /* Efecto sutil al pasar el mouse */
+}
+.empty-state {
+    text-align: center;
+    color: var(--text-muted);
+    padding: 3rem 0;
+    font-size: 0.9rem;
+}
+
+/* 2. VARIABLES MODO OSCURO (SE ACTIVAN CON DATA-THEME) */
+[data-theme="dark"] {
+    
+    --bg-color: #121212; 
+    --card-bg: #1e1e1e; 
+    --text-main: #f8fafc;
+    --text-muted: #94a3b8;
+    --primary-blue: #60a5fa;
+    --border-color: #334155;
+    --dark-btn: #3882f6;
+    --form-bg: #414141;
+    --shadow: rgba(0, 0, 0, 0.2);
+}
+
+/* 3. RESET Y BASE */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    background-color: var(--bg-color);
+    color: var(--text-main);
+    transition: background 0.3s, color 0.3s;
+    padding-bottom: 2rem;
+}
+
+/* 4. COMPONENTES (USANDO LAS VARIABLES) */
+header {
+    background-color: var(--card-bg);
+    padding: 1rem 5%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    box-shadow: 0 1px 3px var(--shadow);
+    border-bottom: 1px solid var(--border-color);
+}
+
+.card {
+    background-color: var(--card-bg);
+    color: var(--text-main);
+    border-radius: 12px;
+    padding: 1.5rem;
+    box-shadow: 0 4px 6px -1px var(--shadow);
+    border: 1px solid var(--border-color);
+}
+
+.form-control {
+    width: 100%;
+    padding: 10px 12px;
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    background-color: var(--form-bg);
+    color: var(--text-main);
+    font-size: 0.9rem;
+}

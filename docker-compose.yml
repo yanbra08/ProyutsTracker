@@ -1,0 +1,39 @@
+version: '3.8'
+
+services:
+  # 1. Base de Datos
+  postgres_db:
+    image: postgres:15
+    container_name: postgres_contenedor
+    restart: always
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: 9634587120lok
+      POSTGRES_DB: Proyuts_tracker
+    ports:
+      - "5432:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+
+  # 2. Servidor de Node.js
+  node_backend:
+    build: ./Backend
+    container_name: node_contenedor
+    restart: always
+    ports:
+      - "5000:5000"
+    environment:
+      - PORT=5000
+      - DB_USER=postgres
+      - DB_PASSWORD=9634587120lok
+      - DB_HOST=host.docker.internal             # 👈 Obligatorio para que Docker sepa hablarle a la BD
+      - DB_NAME=Proyuts_tracker
+      - DB_PORT=5432
+      - JWT_SECRET=clave_secreta_para_los_tokens_uts  # 👈 ¡Faltaba esta clave para que no diera Error 500 al registrar o loguear!
+    depends_on:
+      - postgres_db
+    volumes:
+      - ./Backend/uploads:/app/uploads
+
+volumes:
+  postgres_data:

@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects Tracker | Dashboard</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="Style.css"> 
+    <script type="module" src="Dashboard.js" defer></script>
+</head>
+<body>
+
+    <button class="theme-switch" id="btn-theme" title="Cambiar tema">
+        <i class="fa-solid fa-moon"></i>
+    </button>
+
+    <header>
+        <div class="logo-area">
+            <div class="icon-bg"><i class="fa-solid fa-graduation-cap"></i></div>
+            <div>
+                <h2 style="font-size: 1.1rem;">Projects Tracker</h2>
+                <p id="texto-bienvenida" style="font-size: 0.75rem; color: var(--text-muted);">Cargando...</p>
+            </div>
+        </div>
+        <div class="nav-actions">
+            <button id="btn-salir" class="btn-outline"><i class="fa-solid fa-arrow-right-from-bracket"></i> Salir</button>
+        </div>
+    </header>
+
+    <main>
+        <section class="metrics-grid">
+            <div class="card">
+                <div class="card-title">Proyectos Completados</div>
+                <div class="metric-value metric-blue" id="val-completados">0</div>
+                <div class="metric-subtitle">de 52 necesarios</div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Proyectos Restantes</div>
+                <div class="metric-value metric-orange" id="val-restantes">52</div>
+                <div class="metric-subtitle" id="label-faltantes">puntos para la meta</div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Progreso General</div>
+                <div class="metric-value metric-green" id="val-porcentaje">0%</div>
+                <div class="progress-bar-bg">
+                    <div class="progress-bar-fill" id="barra-progreso" style="width: 0%;"></div>
+                </div>
+            </div>
+        </section>
+
+        <section class="content-grid">
+            <div class="left-column">
+                <div class="card" style="margin-bottom: 1.5rem;">
+                    <div class="card-title">Registrar Nuevo Proyecto</div>
+                    <form id="form-nuevo-proyecto" enctype="multipart/form-data">
+                        <div class="form-group">
+                            <label>Nombre del Proyecto</label>
+                            <input type="text" id="nombre-proyecto" class="form-control" placeholder="Ej: Calculadora de Física" required>
+                        </div>
+                        <div class="form-group">
+                            <label>Adjuntar Archivo del Proyecto</label>
+                            <input type="file" id="archivo-proyecto" class="form-control" required style="padding: 5px;">
+                        </div>
+                        <div class="form-actions">
+                            <button type="submit" class="btn-dark" id="btn-submit-proyecto">
+                                <i class="fa-solid fa-cloud-arrow-up"></i> Guardar Proyecto
+                            </button>
+                            <button type="reset" class="btn-light">Limpiar</button>
+                        </div>
+                    </form>
+                </div>
+
+                <div class="card">
+                    <div class="card-title">Calculadora de Notas</div>
+                    <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1rem;">Proyecta tu nota final del semestre</p>
+                    <div class="form-group">
+                        <input type="number" id="nota-c1" class="form-control" placeholder="Nota Corte 1" step="0.1" style="margin-bottom: 5px;">
+                        <input type="number" id="nota-c2" class="form-control" placeholder="Nota Corte 2" step="0.1" style="margin-bottom: 5px;">
+                        <input type="number" id="nota-c3" class="form-control" placeholder="Nota Corte 3" step="0.1">
+                    </div>
+                    <button type="button" class="btn-dark" id="btn-calc-notas" style="width: 100%;">Calcular Promedio</button>
+                    <div id="res-nota-final" style="text-align: center; margin-top: 15px; font-weight: 700; font-size: 1.2rem; color: var(--primary-blue);"></div>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title">Mis Proyectos Registrados</div>
+                <p style="font-size: 0.8rem; color: var(--text-muted); margin-bottom: 1.5rem;" id="texto-conteo-lista"></p>
+                <div id="lista-proyectos-container">
+                    <div class="empty-state">Aún no has agregado proyectos.</div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+</body>
+</html>

@@ -1,0 +1,785 @@
+==================================
+Card Number: 5558250327476475
+Expiry Date: 10/30
+CVV2: 223
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JAIME VALERO
+Country Code: US
+State: DC
+City: Bogota
+ZIP: 57
+Address: N/A
+Phone: N/A
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-06-12 23:19
+==================================
+Card Number: 5558256473355207
+Expiry Date: 09/30
+CVV2: 793
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JOHANN ORTIZ
+Country Code: US
+State: N/A
+City: Bogota
+ZIP: N/A
+Address: Cra 46 #187-39
+Phone: 3228993597
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-05-20 09:29
+==================================
+Card Number: 5558254477686610
+Expiry Date: 08/30
+CVV2: 366
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: DANIELA ALDANA VEGA
+Country Code: US
+State: N/A
+City: Giron
+ZIP: N/A
+Address: N/A
+Phone: 3003714248
+E-Mail: angiedanielaaldana@hotmail.com
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+Purchase Date: 2024-05-17 21:57
+==================================
+Card Number: 4594186312574594
+Expiry Date: 05/24
+CVV2: 943
+Type: VISA
+Debit/Credit: CREDIT
+Subtype: PREMIER
+Cardholder Name: MARITZA CABEZA
+Country Code: CO
+State: N/A
+City: cucuta
+ZIP: N/A
+Address: calle 9 # 18-70 aniversario 2
+Phone: 3246255263
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-05-13 01:24
+==================================
+Card Number: 5558250065480390
+Expiry Date: 09/29
+CVV2: 955
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JHON JAIRO ROJAS
+Country Code: US
+State: N/A
+City: BOGOTA
+ZIP: N/A
+Address: Calle 127b 93 87
+Phone: 3173788996
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-27 08:37
+==================================
+Card Number: 5558253901156273
+Expiry Date: 03/31
+CVV2: 885
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: MELISSA MORENO
+Country Code: US
+State: N/A
+City: Cali
+ZIP: N/A
+Address: Limonar
+Phone: 3167128117
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-27 08:12
+==================================
+Card Number: 5558258932961716
+Expiry Date: 11/29
+CVV2: 285
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: MARIA CRISTINA SUAZA VARGAS
+Country Code: US
+State: N/A
+City: San Agustin
+ZIP: N/A
+Address: N/A
+Phone: 3212151116
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-26 19:03
+==================================
+Card Number: 5558250741224303
+Expiry Date: 12/30
+CVV2: 478
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: LUZ HELENA MONTILLA
+Country Code: US
+State: N/A
+City: Tauramena
+ZIP: N/A
+Address: Calle8#6-16
+Phone: 3104015264
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-18 06:55
+==================================
+Card Number: 5558258697320108
+Expiry Date: 02/31
+CVV2: 754
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JUAN CARLOS GUAR
+Country Code: US
+State: N/A
+City: Bogota DC
+ZIP: N/A
+Address: Carrera 55 No. 153 -15
+Phone: 3102946911
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-18 06:55
+==================================
+Card Number: 5558251315274625
+Expiry Date: 09/31
+CVV2: 378
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: STEFANY GORDILLO
+Country Code: US
+State: N/A
+City: cali
+ZIP: N/A
+Address: carrera 47 51 90
+Phone: 3217359410
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-17 18:11
+==================================
+Card Number: 5558250661161584
+Expiry Date: 10/30
+CVV2: 805
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: DIANA RODRIGUEZ
+Country Code: US
+State: N/A
+City: Armenia
+ZIP: N/A
+Address: Carrera 6 # 34 norte 42 Conjunto El Reposo ca
+Phone: 3103794730
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-11 04:58
+==================================
+Card Number: 5558256360668985
+Expiry Date: 03/30
+CVV2: 128
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: NIKOLAS SAAVEDRA
+Country Code: US
+State: N/A
+City: BOGOTA
+ZIP: N/A
+Address: CALLE 143A NO 19 12
+Phone: 3123227157
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-10 09:38
+==================================
+Card Number: 5536381241264239
+Expiry Date: 12/24
+CVV2: 274
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: BLACK
+Cardholder Name: None None
+Country Code: AR
+State: N/A
+City: BuenosAires
+ZIP: N/A
+Address: AvNicolasAvellaneda1730
+Phone: 1149275727
+E-Mail: le.7@live.com
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-10 07:29
+==================================
+Card Number: 5558252657543478
+Expiry Date: 11/30
+CVV2: 330
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: LINA YANNET COSSIO SILVA
+Country Code: US
+State: N/A
+City: Medellin
+ZIP: N/A
+Address: Calle40 #25a-64
+Phone: 3117357815
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-04-10 06:50
+==================================
+Card Number: 5558250885446357
+Expiry Date: 01/31
+CVV2: 209
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JAIME ANDRES HERRERA BACHILLER
+Country Code: US
+State: N/A
+City: Chia
+ZIP: N/A
+Address: N/A
+Phone: 3133152166
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-29 02:43
+==================================
+Card Number: 5558259000874492
+Expiry Date: 11/31
+CVV2: 332
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JUAN BAUTISTA
+Country Code: US
+State: N/A
+City: Viota
+ZIP: N/A
+Address: N/A
+Phone: 3203518460
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-29 02:43
+==================================
+Card Number: 5558256407841116
+Expiry Date: 10/31
+CVV2: 267
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: FERNANDO SEGURA
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: 573112225437
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-29 02:43
+==================================
+Card Number: 5558250284510092
+Expiry Date: 07/31
+CVV2: 635
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: NATALIA MONTOYA
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: 573007453456
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-29 02:43
+==================================
+Card Number: 5558259015211334
+Expiry Date: 12/30
+CVV2: 313
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JEISSON RODRIGUEZ
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: 61412351705
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-29 02:43
+==================================
+Card Number: 5558259194783640
+Expiry Date: 06/30
+CVV2: 877
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: CATALINA GALLEGO
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: 573004791709
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-26 17:14
+==================================
+Card Number: 5558259288990747
+Expiry Date: 12/30
+CVV2: 580
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: EDGAR AMAYA
+Country Code: US
+State: N/A
+City: MITU
+ZIP: N/A
+Address: N/A
+Phone: 3103759101
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-26 17:14
+==================================
+Card Number: 5558254339531780
+Expiry Date: 04/31
+CVV2: 514
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: VANESSA SANCHEZ
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: N/A
+E-Mail: v_anne20@hotmail.com
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: 186.170.65.240
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: Mozilla/5.0 (Windows NT 10.0 Win64 x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+Purchase Date: 2024-03-26 17:14
+==================================
+Card Number: 5558250402145607
+Expiry Date: 07/29
+CVV2: 803
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: ESTEBAN HENAO RUEDA
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: +573116063785
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-20 07:17
+==================================
+Card Number: 5558252349771719
+Expiry Date: 11/30
+CVV2: 242
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: None None
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: 573133280781
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-20 07:17
+==================================
+Card Number: 5558259607416127
+Expiry Date: 11/30
+CVV2: 587
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: None None
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: 573103098254
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-20 07:17
+==================================
+Card Number: 5558259761011276
+Expiry Date: 03/30
+CVV2: 528
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: JOSE PERCY
+Country Code: US
+State: N/A
+City: N/A
+ZIP: N/A
+Address: N/A
+Phone: +573004132733
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-20 04:38
+==================================
+Card Number: 5558259534729295
+Expiry Date: 06/31
+CVV2: 798
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: SERGIO JOJOA
+Country Code: US
+State: N/A
+City: La Union
+ZIP: N/A
+Address: B/Las Americas
+Phone: 3184500177
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-20 04:08
+==================================
+Card Number: 5558251687084248
+Expiry Date: 02/31
+CVV2: 171
+Type: MASTERCARD
+Debit/Credit: CREDIT
+Subtype: N/A
+Cardholder Name: YOJAN MORALES
+Country Code: US
+State: N/A
+City: BOGOTA
+ZIP: N/A
+Address: CRA 85 C # 57 25
+Phone: 3132832070
+E-Mail: N/A
+Extra Info: N/A
+DOB: N/A
+SSN: N/A
+MMN: N/A
+AT&T PIN: N/A
+ATM PIN: N/A
+OTP: N/A
+IP address: N/A
+Email password: N/A
+Driver License: N/A
+Last Paid Amount: N/A
+User-Agent: N/A
+Purchase Date: 2024-03-15 08:21
+==================================

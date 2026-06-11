@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects Tracker | Iniciar Sesión</title>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <link rel="stylesheet" href="Style.css">
+</head>
+<body>
+
+    <button class="theme-switch" id="btn-theme" title="Cambiar tema">
+        <i class="fa-solid fa-moon"></i>
+    </button>
+
+    <div class="auth-container">
+        <div class="auth-card">
+            
+            <div class="logo-icon">
+                <i class="fa-solid fa-graduation-cap"></i>
+            </div>
+            
+            <h1>Iniciar Sesión</h1>
+            <p class="subtitle">Ingresa tus credenciales para acceder</p>
+
+            <form id="form-login">
+                
+                <div class="form-group">
+                    <label>Email</label>
+                    <input type="email" id="login-email" class="form-control" placeholder="estudiante@universidad.edu" required>
+                </div>
+                
+                <div class="form-group">
+                    <label>Contraseña</label>
+                    <div class="password-wrapper">
+                        <input type="password" id="login-pass" class="form-control" placeholder="••••••••" required>
+                        <i class="fa-regular fa-eye toggle-password" id="btn-ver-pass"></i>
+                    </div>
+                </div>
+
+                <div class="form-actions">
+                    <button type="submit" class="btn-dark">Entrar</button>
+                    <button type="reset" class="btn-light">Limpiar</button>
+                </div>
+                
+            </form>
+
+            <div class="auth-footer">
+                <a href="../Register/Register.html">¿No tienes cuenta? Regístrate</a>
+            </div>
+
+        </div>
+    </div>
+
+    <script type="module" src="Login.js"></script>
+
+</body>
+</html>
