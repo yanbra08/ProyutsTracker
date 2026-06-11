@@ -1,21 +1,16 @@
 const { Pool } = require('pg');
-const path = require('path');
-require('dotenv').config({ path: path.join(__dirname, '.env') });
+
+// Usamos directamente la cadena de conexión externa (External Database URL) como respaldo absoluto
+const connectionString = process.env.DATABASE_URL || 'postgresql://proyuts_tracker_user:3dj7UEAgolt9pcWWNqFqGw7Q21LcR7Uq@dpg-d815bk67r5hc7391gnvg-a.oregon-postgres.render.com/proyuts_tracker';
 
 const pool = new Pool({
-  user: process.env.DB_USER || 'proyuts_tracker_user',
-  password: process.env.DB_PASSWORD || '3dj7UEAgolt9pcWWNqFqGw7Q21LcR7Uq',
-  host: process.env.DB_HOST || 'dpg-d815bk67r5hc739lgnvg-a',
-  port: process.env.DB_PORT || 5432,
-  database: process.env.DB_NAME || 'proyuts_tracker',
-  // Si el host no es localhost, activa SSL obligatoriamente para Render
-  ssl: (process.env.DB_HOST || 'dpg-d8l5bk67r5hc739lgnvg-a') !== 'localhost' 
-    ? { rejectUnauthorized: false } 
-    : false
+  connectionString: connectionString,
+  // Si la URL contiene localhost (en tu PC), apaga SSL. Si está en Render (la nube), lo activa obligatoriamente.
+  ssl: connectionString.includes('localhost') ? false : { rejectUnauthorized: false }
 });
 
 pool.on('connect', () => {
-  console.log('¡Conectado exitosamente a la base de datos PostgreSQL!');
+  console.log('¡Conectado exitosamente a la base de datos PostgreSQL en la nube!');
 });
 
 module.exports = pool;
