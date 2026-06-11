@@ -1,18 +1,19 @@
 const { Pool } = require('pg');
-require('dotenv').config();
+const path = require('path');
+require('dotenv').config({ path: path.join(__dirname, '.env') });
 
-// Creamos la conexión con la base de datos usando las variables del .env
 const pool = new Pool({
-  user: process.env.DB_USER,
-  password: process.env.DB_PASSWORD,
-  host: process.env.DB_HOST,
+  user: process.env.DB_USER || 'proyuts_tracker_user',
+  password: process.env.DB_PASSWORD || '3dj7UEAgolt9pcWWNqFqGw7Q21LcR7Uq',
+  host: process.env.DB_HOST || 'dpg-d815bk67r5hc739lgnvg-a',
   port: process.env.DB_PORT || 5432,
-  database: process.env.DB_NAME,
-  // ESTO ES LO QUE FALTA: Obliga a Render a usar conexión SSL segura, pero en tu PC (localhost) lo ignora
-  ssl: process.env.DB_HOST !== 'localhost' ? { rejectUnauthorized: false } : false
+  database: process.env.DB_NAME || 'proyuts_tracker',
+  // Si el host no es localhost, activa SSL obligatoriamente para Render
+  ssl: (process.env.DB_HOST || 'dpg-d8l5bk67r5hc739lgnvg-a') !== 'localhost' 
+    ? { rejectUnauthorized: false } 
+    : false
 });
 
-// Este mensaje nos avisará en la terminal si la conexión fue exitosa
 pool.on('connect', () => {
   console.log('¡Conectado exitosamente a la base de datos PostgreSQL!');
 });
