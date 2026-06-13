@@ -1,0 +1,37 @@
+Calculadora automática de proyectos faltantes en la
+pantalla principal para saber exactamente cuántos puntos
+restan para llegar a la meta.
+
+Alerta de confirmación emergente antes de eliminar un
+proyecto para evitar que el estudiante borre su información
+por accidente.
+
+Validación de campos vacíos en los formularios de registro
+para que el sistema bloquee el guardado si al estudiante se
+le olvida llenar un dato.
+
+Botón de limpiar formulario para borrar rápidamente todo lo
+escrito en las casillas con un solo clic.
+
+Restricción de seguridad en el formulariode registro que obligue
+a que la contraseña creada tenga un mínimo de caracteres.
+
+Función de mostrar y ocultar contraseña en la pantalla de inicio de
+sesión para verificar lo que se escribió antes de entrar.
+
+Sistema de Modo Oscuro / Modo Claro (Dark Theme), con un botón
+interruptor que cambie la paleta de colores de toda la interfaz y guarde la
+preferencia en la memoria del navegador.
+
+Mensaje de bienvenida personalizado en la parte superior del menú
+principal que muestre el nombre del estudiante una vez ingrese al
+sistema.
+
+Bloqueo automático del botón de inscripción a cursos si el sistema
+detecta que el estudiante ya alcanzó o superó sus 52 proyectos
+requeridos.
+
+Calculadora de Notas interactiva, donde el estudiante
+pueda ingresar sus calificaciones y los porcentajes
+de cada corte para proyectar su nota final
+del semestre.
